@@ -1,13 +1,13 @@
 [package]
 name = "a793556702"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Daniel Norton <421735+danielnorton@users.noreply.github.com>"]
 edition = "2018"
 description = "A very simple crate to test publishing to crates.io."
 license = "MIT"
 
 repository = "https://github.com/danielnorton/a793556702"
-documentation = "https://github.com/danielnorton/a793556702"
+documentation = "https://docs.rs/a793556702/"
 homepage = "https://github.com/danielnorton/a793556702"
 readme = "README.md"
 
