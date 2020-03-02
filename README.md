@@ -8,4 +8,5 @@ This is all it does:
 ```
 use a793556702::say_hello;
 let message = say_hello("Fred");
+assert_eq!("Hello, Fred!", message);
 ```
